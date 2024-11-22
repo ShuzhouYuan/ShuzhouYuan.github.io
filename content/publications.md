@@ -37,7 +37,7 @@ Michael Färber, Mariana Coutinho, and **Shuzhou Yuan**
 ### 2022
 **[Separating Hate Speech and Offensive Language Classes via Adversarial Debiasing](https://aclanthology.org/2022.woah-1.1/)**  
 **Shuzhou Yuan**, Antonis Maronikolakis, and Hinrich Schütze  
-*Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH 2023)*  
+*Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH 2022)*  
 
 **[Applying NLP Techniques to Classify Businesses by their International Standard Industrial Classification (ISIC) Code](https://ieeexplore.ieee.org/abstract/document/10020787)**  
 Henri Béchara, Rui Zhang, **Shuzhou Yuan**, and Stanislav Jankin  
