@@ -2,7 +2,7 @@
 
 <img class="avatar" src="/images/me_2.jpeg" alt="avatar">
 
-Hi, I’m Shuzhou Yuan, a PhD candidate in Computer Science at [Technische Universität Dresden](https://tu-dresden.de/) and [ScaDS.AI](https://scads.ai), supervised by [Prof. Michael Färber](https://sites.google.com/view/michaelfaerber/). My research mainly focuses on Artificial Intelligence and Natural Language Processing.
+I’m Shuzhou Yuan, a PhD candidate in Computer Science at [Technische Universität Dresden](https://tu-dresden.de/) and [ScaDS.AI](https://scads.ai), supervised by [Prof. Michael Färber](https://sites.google.com/view/michaelfaerber/). My research mainly focuses on Artificial Intelligence and Natural Language Processing.
 
 I obtained my Master’s degree in Computational Linguistics from [Ludwig-Maximilians-Universität München](https://www.uni-muenchen.de/index.html). Following that, I began my PhD at the Karlsruhe Institute of Technology in 2022 and transitioned to TU Dresden in 2024 to continue my doctoral studies.
 
