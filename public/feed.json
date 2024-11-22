@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Shuzhou",
+  "home_page_url": "https://shuzhouyuan.github.io/",
+  "feed_url": "https://shuzhouyuan.github.io/feed.json",
+  "description": "A minimal hugo theme focus on content",
+  "favicon": "https://shuzhouyuan.github.io//assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Calvin Tran",
+    "url": "https://shuzhouyuan.github.io/"
+  },
+  "items": [
+    
+    
+
+    
+  ]
+}
