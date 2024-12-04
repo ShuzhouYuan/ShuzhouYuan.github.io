@@ -7,7 +7,7 @@ theme = 'maverick'
   pages = "/:slug"
 
 [params]
-  logo = '/assets/favicon.ico'
+  logo = '/assets/devil-kitty.svg'
   description = "A minimal hugo theme focus on content"
   author = 'Calvin Tran'
 
