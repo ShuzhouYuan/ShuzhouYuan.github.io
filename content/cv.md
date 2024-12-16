@@ -4,7 +4,7 @@ title: Curriculum Vitae
 
 ### Professional Experience
 
-- Since May 2024: **PhD Student/Research Associate** at the AI Center ScaDS.AI, Technical University (TU) Dresden, Germany.
+- Since May 2024: **PhD Student/Research Associate** at the AI Center ScaDS.AI, Dresden University of Technology (TUD), Dresden, Germany.
 
 - 2022–2024: **PhD Student/Research Associate** at Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany.
 
