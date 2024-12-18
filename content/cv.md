@@ -13,9 +13,9 @@ title: Curriculum Vitae
 
 ### Education
 
-- Since 2022: **PhD Candidate** in Computer Science, Karlsruhe Institute of Technology (KIT) and Technische Universität Dresden (TUD), Germany.
+- Since 2022: **PhD Candidate** in Computer Science, Karlsruhe Institute of Technology (KIT) and Dresden University of Technology (TUD), Germany.
 
-- 2018–2021: **Master’s Degree** in Computational Linguistics with a minor in Computer Science, Ludwig-Maximilians-Universität München (LMU), Munich, Germany.
+- 2018–2021: **Master’s Degree** in Computational Linguistics with a minor in Computer Science, University of Munich (LMU), Munich, Germany.
 
 - 2013–2017: **Bachelor’s Degree** in German Studies, Southwest University, Chongqing, China.
 
