@@ -5,7 +5,7 @@ title: Publications
 ### 2024
 
 **[Graph-Guided Textual Explanation Generation Framework](https://arxiv.org/abs/2412.12318)**  
-**Shuzhou Yuan**, Jingyi Sun, Ran Zhang, Michael Färber, Steffen Eger, Pepa Atanasova, Isabelle Augenstein
+**Shuzhou Yuan**, Jingyi Sun, Ran Zhang, Michael Färber, Steffen Eger, Pepa Atanasova, Isabelle Augenstein  
 *arXiv preprint*
 
 **[GNNavi: Navigating the Information Flow in Large Language Models by Graph Neural Network](https://aclanthology.org/2024.findings-acl.237)**  
