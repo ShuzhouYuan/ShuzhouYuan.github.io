@@ -21,7 +21,7 @@ E-Mail: firstname[dot]surename@tu-dresden[dot]de
 
 - 21.11.2024: I'm organising the first [LLMs' secrect worshop](https://sites.google.com/view/llmsecrets) as Program Chair, during the magical Christmas season in Dresden! 🎄
 - 16.11.2024: 🎉 Our KIWI paper was accepted for the KDD 2025 ADS Track! Learn more about the [KIWI](https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/kiwi.html) project.  
-- 02.09.2024: Received funding from the German Federal Ministry of Education and Research (BMBF) with **€115,000** for my upcoming research, in collaboration with Macmillan Learning!  
+- 02.09.2024: Received funding from the German Federal Ministry of Education and Research (BMBF) with **€115,000** for my upcoming research project [LLM4Edu](https://scads.ai/research/ai-algorithms-and-methods/understanding-language/projects/llm4edu/), in collaboration with Macmillan Learning!  
 - 16.05.2024: Our work GNNavi was accepted to ACL 2024 Findings!  
 - 26.04.2024: Completed a two-week research stay and gave a talk at CIS, LMU Munich.  
 - 15.03.2024: The paper GraSAME was accepted by NAACL 2024 Findings.  
