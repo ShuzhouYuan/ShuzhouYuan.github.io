@@ -5,7 +5,7 @@ title: Publications
 ### 2025
 
 **[Hallucinations Can Improve Large Language Models in Drug Discovery](https://arxiv.org/abs/2501.13824)**  
-**Shuzhou Yuan**, Michael Färber
+**Shuzhou Yuan**, Michael Färber  
 *arXiv preprint*
 
 ### 2024
