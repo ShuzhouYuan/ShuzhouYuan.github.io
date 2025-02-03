@@ -14,7 +14,7 @@ I obtained my Master’s degree in Computational Linguistics from [Ludwig-Maximi
 
 
 E-Mail: firstname[dot]surename@tu-dresden[dot]de  
-[[Google Scholar]](https://scholar.google.com/citations?user=ZMQ1C6gAAAAJ&hl=en) [[X]](https://x.com/Shoejoe_) [[Linkedin]](https://www.linkedin.com/in/shuzhou-yuan-7b577221a/?originalSubdomain=de) [[GitHub]](https://github.com/ShuzhouYuan)  [bluesky](https://bsky.app/profile/shoejoe.bsky.social)
+[[Google Scholar]](https://scholar.google.com/citations?user=ZMQ1C6gAAAAJ&hl=en) [[X]](https://x.com/Shoejoe_) [[Linkedin]](https://www.linkedin.com/in/shuzhou-yuan-7b577221a/?originalSubdomain=de) [[GitHub]](https://github.com/ShuzhouYuan)  [[bluesky]](https://bsky.app/profile/shoejoe.bsky.social)
 
 ---
 ### News:
