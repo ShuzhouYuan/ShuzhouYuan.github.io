@@ -1,6 +1,6 @@
 baseURL = 'https://shuzhouyuan.github.io/'
 languageCode = 'en-us'
-title = 'Shuzhou'
+title = 'Shuzhou Yuan'
 theme = 'maverick'
 
 [permalinks]
