@@ -4,6 +4,10 @@ title: Publications
 
 ### 2025
 
+**[Why Lift so Heavy? Slimming Large Language Models by Cutting Off the Layers](https://arxiv.org/abs/2402.11700)**  
+**Shuzhou Yuan**, Ercong Nie, Bolei Ma, Michael Färber  
+*2025 International Joint Conference on Neural Networks (IJCNN)*
+
 **[Hallucinations Can Improve Large Language Models in Drug Discovery](https://arxiv.org/abs/2501.13824)**  
 **Shuzhou Yuan**, Michael Färber  
 *arXiv preprint*
@@ -25,10 +29,6 @@ title: Publications
 **[ToPro: Token-Level Prompt Decomposition for Cross-Lingual Sequence Labeling Tasks](https://aclanthology.org/2024.eacl-long.164)**  
 Bolei Ma, Ercong Nie, **Shuzhou Yuan**, Helmut Schmid, Michael Färber, Frauke Kreuter, Hinrich Schütze  
 *Proceedings of the European Chapter of the Association for Computational Linguistics (EACL) 2024*
-
-**[Why Lift so Heavy? Slimming Large Language Models by Cutting Off the Layers](https://arxiv.org/abs/2402.11700)**  
-**Shuzhou Yuan**, Ercong Nie, Bolei Ma, Michael Färber  
-*arXiv preprint*
 
 **[Decomposed Prompting: Unveiling Multilingual Linguistic Structure Knowledge in English-Centric Large Language Models](https://arxiv.org/pdf/2402.18397)**  
 Ercong Nie, **Shuzhou Yuan**, Bolei Ma, Helmut Schmid, Michael Färber, Frauke Kreuter, Hinrich Schütze  
