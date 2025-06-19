@@ -4,6 +4,14 @@ title: Publications
 
 ### 2025
 
+**[Hateful Person or Hateful Model? Investigating the Role of Personas in Hate Speech Detection by Large Language Models](https://arxiv.org/abs/2506.08593)**  
+**Shuzhou Yuan**, Ercong Nie, Mario Tawfelis, Helmut Schmid, Hinrich Schütze, Michael Färber  
+*arXiv preprint*
+
+**[LLM in the Loop: Creating the PARADEHATE Dataset for Hate Speech Detoxification](https://arxiv.org/abs/2506.01484)**  
+**Shuzhou Yuan**, Ercong Nie, Lukas Kouba, Ashish Yashwanth Kangen, Helmut Schmid, Hinrich Schütze, Michael Färber  
+*arXiv preprint*
+
 **[Why Lift so Heavy? Slimming Large Language Models by Cutting Off the Layers](https://arxiv.org/abs/2402.11700)**  
 **Shuzhou Yuan**, Ercong Nie, Bolei Ma, Michael Färber  
 *2025 International Joint Conference on Neural Networks (IJCNN)*
