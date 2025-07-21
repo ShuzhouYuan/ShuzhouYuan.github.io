@@ -58,5 +58,5 @@ Michael Färber, Mariana Coutinho, and **Shuzhou Yuan**
 *Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH 2022)*  
 
 **[Applying NLP Techniques to Classify Businesses by their International Standard Industrial Classification (ISIC) Code](https://ieeexplore.ieee.org/abstract/document/10020787)**  
-Henri Béchara, Rui Zhang, **Shuzhou Yuan**, and Stanislav Jankin  
+Henri Béchara, Rui Zhang, **Shuzhou Yuan**, and Slava Jankin  
 *2022 IEEE International Conference on Big Data (Big Data)*
