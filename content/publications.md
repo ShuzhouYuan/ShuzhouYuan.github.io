@@ -4,6 +4,18 @@ title: Publications
 
 ### 2025
 
+**[CoDAE: Adapting Large Language Models for Education via Chain-of-Thought Data Augmentation](https://arxiv.org/abs/2508.08386)**  
+**Shuzhou Yuan**, William LaCroix, Hardik Ghoshal, Ercong Nie, Michael Färber  
+*arXiv preprint*
+
+**[From Monolingual to Bilingual: Investigating Language Conditioning in Large Language Models for Psycholinguistic Tasks](https://arxiv.org/abs/2508.02502)**  
+**Shuzhou Yuan**, Zhan Qu, Mario Tawfelis, Michael Färber  
+*arXiv preprint*
+
+**[PoeTone: A Framework for Constrained Generation of Structured Chinese Songci with LLMs](https://arxiv.org/abs/2508.02515)**  
+Zhan Qu, **Shuzhou Yuan**, Michael Färber  
+*arXiv preprint*
+
 **[Hateful Person or Hateful Model? Investigating the Role of Personas in Hate Speech Detection by Large Language Models](https://arxiv.org/abs/2506.08593)**  
 **Shuzhou Yuan**, Ercong Nie, Mario Tawfelis, Helmut Schmid, Hinrich Schütze, Michael Färber  
 *arXiv preprint*
