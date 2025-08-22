@@ -4,6 +4,18 @@ title: Publications
 
 ### 2025
 
+**[Graph-Guided Textual Explanation Generation Framework](https://arxiv.org/abs/2412.12318)**  
+**Shuzhou Yuan**, Jingyi Sun, Ran Zhang, Michael Färber, Steffen Eger, Pepa Atanasova, Isabelle Augenstein  
+*Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)*
+
+**[Why Lift so Heavy? Slimming Large Language Models by Cutting Off the Layers](https://arxiv.org/abs/2402.11700)**  
+**Shuzhou Yuan**, Ercong Nie, Bolei Ma, Michael Färber  
+*2025 International Joint Conference on Neural Networks (IJCNN)*
+
+**[Explainable LiDAR 3D Point Cloud Segmentation and Clustering for Detecting Airplane-Generated Wind Turbulence](https://dl.acm.org/doi/abs/10.1145/3690624.3709436)**  
+Zhan Qu, **Shuzhou Yuan**, Michael Färber, Marius Brennfleck, Niklas Wartha, Anton Stephan   
+*Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*
+
 **[CoDAE: Adapting Large Language Models for Education via Chain-of-Thought Data Augmentation](https://arxiv.org/abs/2508.08386)**  
 **Shuzhou Yuan**, William LaCroix, Hardik Ghoshal, Ercong Nie, Michael Färber  
 *arXiv preprint*
@@ -24,19 +36,11 @@ Zhan Qu, **Shuzhou Yuan**, Michael Färber
 **Shuzhou Yuan**, Ercong Nie, Lukas Kouba, Ashish Yashwanth Kangen, Helmut Schmid, Hinrich Schütze, Michael Färber  
 *arXiv preprint*
 
-**[Why Lift so Heavy? Slimming Large Language Models by Cutting Off the Layers](https://arxiv.org/abs/2402.11700)**  
-**Shuzhou Yuan**, Ercong Nie, Bolei Ma, Michael Färber  
-*2025 International Joint Conference on Neural Networks (IJCNN)*
-
 **[Hallucinations Can Improve Large Language Models in Drug Discovery](https://arxiv.org/abs/2501.13824)**  
 **Shuzhou Yuan**, Michael Färber  
 *arXiv preprint*
 
 ### 2024
-
-**[Graph-Guided Textual Explanation Generation Framework](https://arxiv.org/abs/2412.12318)**  
-**Shuzhou Yuan**, Jingyi Sun, Ran Zhang, Michael Färber, Steffen Eger, Pepa Atanasova, Isabelle Augenstein  
-*arXiv preprint*
 
 **[GNNavi: Navigating the Information Flow in Large Language Models by Graph Neural Network](https://aclanthology.org/2024.findings-acl.237)**  
 **Shuzhou Yuan**, Ercong Nie, Michael Färber, Helmut Schmid, Hinrich Schütze  
