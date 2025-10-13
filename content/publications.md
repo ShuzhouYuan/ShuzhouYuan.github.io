@@ -8,6 +8,10 @@ title: Publications
 **Shuzhou Yuan**, Jingyi Sun, Ran Zhang, Michael Färber, Steffen Eger, Pepa Atanasova, Isabelle Augenstein  
 *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)*
 
+**[Hateful Person or Hateful Model? Investigating the Role of Personas in Hate Speech Detection by Large Language Models](https://arxiv.org/abs/2506.08593)**  
+**Shuzhou Yuan**, Ercong Nie, Mario Tawfelis, Helmut Schmid, Hinrich Schütze, Michael Färber  
+*PALS workshop at EMNLP 2025*
+
 **[Why Lift so Heavy? Slimming Large Language Models by Cutting Off the Layers](https://arxiv.org/abs/2402.11700)**  
 **Shuzhou Yuan**, Ercong Nie, Bolei Ma, Michael Färber  
 *2025 International Joint Conference on Neural Networks (IJCNN)*
@@ -15,6 +19,14 @@ title: Publications
 **[Explainable LiDAR 3D Point Cloud Segmentation and Clustering for Detecting Airplane-Generated Wind Turbulence](https://dl.acm.org/doi/abs/10.1145/3690624.3709436)**  
 Zhan Qu, **Shuzhou Yuan**, Michael Färber, Marius Brennfleck, Niklas Wartha, Anton Stephan   
 *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*
+
+**[Beyond Over-Refusal: Scenario-Based Diagnostics and Post-Hoc Mitigation for Exaggerated Refusals in LLMs](https://arxiv.org/abs/2510.08158)**  
+**Shuzhou Yuan**, Ercong Nie, Yinuo Sun, Chenxuan Zhao, William LaCroix, Michael Färber   
+*arXiv preprint*
+
+**[The Hidden Bias: A Study on Explicit and Implicit Political Stereotypes in Large Language Models](https://arxiv.org/abs/2510.08236)**  
+Konrad Löhr, **Shuzhou Yuan**, Michael Färber   
+*arXiv preprint*
 
 **[CoDAE: Adapting Large Language Models for Education via Chain-of-Thought Data Augmentation](https://arxiv.org/abs/2508.08386)**  
 **Shuzhou Yuan**, William LaCroix, Hardik Ghoshal, Ercong Nie, Michael Färber  
@@ -26,10 +38,6 @@ Zhan Qu, **Shuzhou Yuan**, Michael Färber, Marius Brennfleck, Niklas Wartha, An
 
 **[PoeTone: A Framework for Constrained Generation of Structured Chinese Songci with LLMs](https://arxiv.org/abs/2508.02515)**  
 Zhan Qu, **Shuzhou Yuan**, Michael Färber  
-*arXiv preprint*
-
-**[Hateful Person or Hateful Model? Investigating the Role of Personas in Hate Speech Detection by Large Language Models](https://arxiv.org/abs/2506.08593)**  
-**Shuzhou Yuan**, Ercong Nie, Mario Tawfelis, Helmut Schmid, Hinrich Schütze, Michael Färber  
 *arXiv preprint*
 
 **[LLM in the Loop: Creating the PARADEHATE Dataset for Hate Speech Detoxification](https://arxiv.org/abs/2506.01484)**  
