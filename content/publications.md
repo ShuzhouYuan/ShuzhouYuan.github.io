@@ -20,6 +20,18 @@ title: Publications
 Zhan Qu, **Shuzhou Yuan**, Michael Färber, Marius Brennfleck, Niklas Wartha, Anton Stephan   
 *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*
 
+**[LLM in the Loop: Creating the PARADEHATE Dataset for Hate Speech Detoxification](https://arxiv.org/abs/2506.01484)**  
+**Shuzhou Yuan**, Ercong Nie, Lukas Kouba, Ashish Yashwanth Kangen, Helmut Schmid, Hinrich Schütze, Michael Färber  
+*IJCNLP-AACL 2025 Findings*
+
+**[From Monolingual to Bilingual: Investigating Language Conditioning in Large Language Models for Psycholinguistic Tasks](https://arxiv.org/abs/2508.02502)**  
+**Shuzhou Yuan**, Zhan Qu, Mario Tawfelis, Michael Färber  
+*IJCNLP-AACL 2025 Findings*
+
+**[Decomposed Prompting: Unveiling Multilingual Linguistic Structure Knowledge in English-Centric Large Language Models](https://arxiv.org/pdf/2402.18397)**  
+Ercong Nie, **Shuzhou Yuan**, Bolei Ma, Helmut Schmid, Michael Färber, Frauke Kreuter, Hinrich Schütze  
+*IJCNLP-AACL 2025 Findings*
+
 **[Beyond Over-Refusal: Scenario-Based Diagnostics and Post-Hoc Mitigation for Exaggerated Refusals in LLMs](https://arxiv.org/abs/2510.08158)**  
 **Shuzhou Yuan**, Ercong Nie, Yinuo Sun, Chenxuan Zhao, William LaCroix, Michael Färber   
 *arXiv preprint*
@@ -32,16 +44,8 @@ Konrad Löhr, **Shuzhou Yuan**, Michael Färber
 **Shuzhou Yuan**, William LaCroix, Hardik Ghoshal, Ercong Nie, Michael Färber  
 *arXiv preprint*
 
-**[From Monolingual to Bilingual: Investigating Language Conditioning in Large Language Models for Psycholinguistic Tasks](https://arxiv.org/abs/2508.02502)**  
-**Shuzhou Yuan**, Zhan Qu, Mario Tawfelis, Michael Färber  
-*arXiv preprint*
-
 **[PoeTone: A Framework for Constrained Generation of Structured Chinese Songci with LLMs](https://arxiv.org/abs/2508.02515)**  
 Zhan Qu, **Shuzhou Yuan**, Michael Färber  
-*arXiv preprint*
-
-**[LLM in the Loop: Creating the PARADEHATE Dataset for Hate Speech Detoxification](https://arxiv.org/abs/2506.01484)**  
-**Shuzhou Yuan**, Ercong Nie, Lukas Kouba, Ashish Yashwanth Kangen, Helmut Schmid, Hinrich Schütze, Michael Färber  
 *arXiv preprint*
 
 **[Hallucinations Can Improve Large Language Models in Drug Discovery](https://arxiv.org/abs/2501.13824)**  
@@ -61,10 +65,6 @@ Zhan Qu, **Shuzhou Yuan**, Michael Färber
 **[ToPro: Token-Level Prompt Decomposition for Cross-Lingual Sequence Labeling Tasks](https://aclanthology.org/2024.eacl-long.164)**  
 Bolei Ma, Ercong Nie, **Shuzhou Yuan**, Helmut Schmid, Michael Färber, Frauke Kreuter, Hinrich Schütze  
 *Proceedings of the European Chapter of the Association for Computational Linguistics (EACL) 2024*
-
-**[Decomposed Prompting: Unveiling Multilingual Linguistic Structure Knowledge in English-Centric Large Language Models](https://arxiv.org/pdf/2402.18397)**  
-Ercong Nie, **Shuzhou Yuan**, Bolei Ma, Helmut Schmid, Michael Färber, Frauke Kreuter, Hinrich Schütze  
-*arXiv preprint*
 
 ### 2023
 
