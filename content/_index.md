@@ -19,6 +19,7 @@ E-Mail: firstname[dot]surename@tu-dresden[dot]de
 ---
 ### News:
 
+- 08.11.2025: One paper got accepted to AAAI 2026.
 - 25.10.2025: Three papers got accepted to IJCNLP-AACL 2025.
 - 20.08.2025: One paper got accepted to EMNLP 2025 main and one paper got accepted to EMNLP PALS workshop! [[Paper]](https://arxiv.org/abs/2412.12318)
 - 01.04.2025: One paper got accepted to IJCNN 2025! [[Paper]](https://arxiv.org/abs/2402.11700)
