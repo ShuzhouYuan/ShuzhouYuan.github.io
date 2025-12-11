@@ -36,10 +36,6 @@ Zhan Qu, **Shuzhou Yuan**, Michael Färber
 Ercong Nie, **Shuzhou Yuan**, Bolei Ma, Helmut Schmid, Michael Färber, Frauke Kreuter, Hinrich Schütze  
 *IJCNLP-AACL 2025 Findings*
 
-**[Beyond Over-Refusal: Scenario-Based Diagnostics and Post-Hoc Mitigation for Exaggerated Refusals in LLMs](https://arxiv.org/abs/2510.08158)**  
-**Shuzhou Yuan**, Ercong Nie, Yinuo Sun, Chenxuan Zhao, William LaCroix, Michael Färber   
-*arXiv preprint*
-
 **[The Hidden Bias: A Study on Explicit and Implicit Political Stereotypes in Large Language Models](https://arxiv.org/abs/2510.08236)**  
 Konrad Löhr, **Shuzhou Yuan**, Michael Färber   
 *arXiv preprint*
