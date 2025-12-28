@@ -10,7 +10,7 @@ I obtained my Master’s degree in Computational Linguistics from [Ludwig-Maximi
 - Large Language Models
 - Graph Neural Networks
 - Computational Social Science
-- Drug Discovery
+- AI for Science
 
 
 E-Mail: firstname[dot]surename@tu-dresden[dot]de  
