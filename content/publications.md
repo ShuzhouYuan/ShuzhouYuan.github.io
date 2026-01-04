@@ -2,6 +2,16 @@
 title: Publications
 ---
 
+### 2026
+
+**[PoeTone: A Framework for Constrained Generation of Structured Chinese Songci with LLMs](https://arxiv.org/abs/2508.02515)**  
+Zhan Qu, **Shuzhou Yuan**, Michael Färber  
+*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026)*
+
+**[The Hidden Bias: A Study on Explicit and Implicit Political Stereotypes in Large Language Models](https://arxiv.org/abs/2510.08236)**  
+Konrad Löhr, **Shuzhou Yuan**, Michael Färber   
+*EACL 2026 Findings*
+
 ### 2025
 
 **[Graph-Guided Textual Explanation Generation Framework](https://arxiv.org/abs/2412.12318)**  
@@ -20,10 +30,6 @@ title: Publications
 Zhan Qu, **Shuzhou Yuan**, Michael Färber, Marius Brennfleck, Niklas Wartha, Anton Stephan   
 *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*
 
-**[PoeTone: A Framework for Constrained Generation of Structured Chinese Songci with LLMs](https://arxiv.org/abs/2508.02515)**  
-Zhan Qu, **Shuzhou Yuan**, Michael Färber  
-*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026)*
-
 **[LLM in the Loop: Creating the PARADEHATE Dataset for Hate Speech Detoxification](https://arxiv.org/abs/2506.01484)**  
 **Shuzhou Yuan**, Ercong Nie, Lukas Kouba, Ashish Yashwanth Kangen, Helmut Schmid, Hinrich Schütze, Michael Färber  
 *IJCNLP-AACL 2025 Findings*
@@ -35,10 +41,6 @@ Zhan Qu, **Shuzhou Yuan**, Michael Färber
 **[Decomposed Prompting: Unveiling Multilingual Linguistic Structure Knowledge in English-Centric Large Language Models](https://arxiv.org/pdf/2402.18397)**  
 Ercong Nie, **Shuzhou Yuan**, Bolei Ma, Helmut Schmid, Michael Färber, Frauke Kreuter, Hinrich Schütze  
 *IJCNLP-AACL 2025 Findings*
-
-**[The Hidden Bias: A Study on Explicit and Implicit Political Stereotypes in Large Language Models](https://arxiv.org/abs/2510.08236)**  
-Konrad Löhr, **Shuzhou Yuan**, Michael Färber   
-*arXiv preprint*
 
 **[CoDAE: Adapting Large Language Models for Education via Chain-of-Thought Data Augmentation](https://arxiv.org/abs/2508.08386)**  
 **Shuzhou Yuan**, William LaCroix, Hardik Ghoshal, Ercong Nie, Michael Färber  
