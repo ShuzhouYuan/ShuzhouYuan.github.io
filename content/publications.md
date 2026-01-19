@@ -12,7 +12,7 @@ Zhan Qu, **Shuzhou Yuan**, Michael Färber
 Konrad Löhr, **Shuzhou Yuan**, Michael Färber   
 *EACL 2026 Findings*
 
-**[TAnalyzing Bias in False Refusal Behavior of Large Language Models for Hate Speech Detoxification](https://arxiv.org/abs/2601.08668)**  
+**[Analyzing Bias in False Refusal Behavior of Large Language Models for Hate Speech Detoxification](https://arxiv.org/abs/2601.08668)**  
 Kyuri Im*, **Shuzhou Yuan***, Michael Färber   
 *arXiv Preprint*
 
