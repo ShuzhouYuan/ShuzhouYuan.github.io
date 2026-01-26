@@ -16,6 +16,10 @@ Konrad Löhr, **Shuzhou Yuan**, Michael Färber
 Kyuri Im*, **Shuzhou Yuan***, Michael Färber   
 *arXiv Preprint*
 
+**[Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models](https://arxiv.org/abs/2601.14004)**  
+Hengyuan Zhang, Zhihao Zhang, Mingyang Wang, Zunhai Su, Yiwei Wang, Qianli Wang, **Shuzhou Yuan**, Ercong Nie, Xufeng Duan, Qibo Xue, Zeping Yu, Chenming Shang, Xiao Liang, Jing Xiong, Hui Shen, Chaofan Tao, Zhengwu Liu, Senjie Jin, Zhiheng Xi, Dongdong Zhang, Sophia Ananiadou, Tao Gui, Ruobing Xie, Hayden Kwok-Hay So, Hinrich Schütze, Xuanjing Huang, Qi Zhang, Ngai Wong   
+*arXiv Preprint*
+
 ### 2025
 
 **[Graph-Guided Textual Explanation Generation Framework](https://arxiv.org/abs/2412.12318)**  
