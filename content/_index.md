@@ -19,6 +19,7 @@ E-Mail: firstname[dot]surename@tu-dresden[dot]de
 ---
 ### News:
 
+- 12.02.2026: One paper got accepted to LREC 2026.
 - 04.01.2026: One paper got accepted to EACL 2026.
 - 08.11.2025: One paper got accepted to AAAI 2026.
 - 25.10.2025: Three papers got accepted to IJCNLP-AACL 2025.

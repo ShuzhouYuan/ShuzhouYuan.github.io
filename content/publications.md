@@ -12,6 +12,10 @@ Zhan Qu, **Shuzhou Yuan**, Michael Färber
 Konrad Löhr, **Shuzhou Yuan**, Michael Färber   
 *EACL 2026 Findings*
 
+**[CoDAE: Adapting Large Language Models for Education via Chain-of-Thought Data Augmentation](https://arxiv.org/abs/2508.08386)**  
+**Shuzhou Yuan**, William LaCroix, Hardik Ghoshal, Ercong Nie, Michael Färber  
+*Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)*
+
 **[Analyzing Bias in False Refusal Behavior of Large Language Models for Hate Speech Detoxification](https://arxiv.org/abs/2601.08668)**  
 Kyuri Im*, **Shuzhou Yuan***, Michael Färber   
 *arXiv Preprint*
@@ -49,10 +53,6 @@ Zhan Qu, **Shuzhou Yuan**, Michael Färber, Marius Brennfleck, Niklas Wartha, An
 **[Decomposed Prompting: Unveiling Multilingual Linguistic Structure Knowledge in English-Centric Large Language Models](https://arxiv.org/pdf/2402.18397)**  
 Ercong Nie, **Shuzhou Yuan**, Bolei Ma, Helmut Schmid, Michael Färber, Frauke Kreuter, Hinrich Schütze  
 *IJCNLP-AACL 2025 Findings*
-
-**[CoDAE: Adapting Large Language Models for Education via Chain-of-Thought Data Augmentation](https://arxiv.org/abs/2508.08386)**  
-**Shuzhou Yuan**, William LaCroix, Hardik Ghoshal, Ercong Nie, Michael Färber  
-*arXiv preprint*
 
 **[Hallucinations Can Improve Large Language Models in Drug Discovery](https://arxiv.org/abs/2501.13824)**  
 **Shuzhou Yuan**, Michael Färber  
