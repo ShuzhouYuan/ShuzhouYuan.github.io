@@ -17,7 +17,4 @@ title: Curriculum Vitae
 
 - 2018–2021: **Master’s Degree** in Computational Linguistics with a minor in Computer Science, University of Munich (LMU), Munich, Germany.
 
-- 2013–2017: **Bachelor’s Degree** in German Studies, Southwest University, Chongqing, China.
-
-
 
